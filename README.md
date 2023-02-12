@@ -1,5 +1,5 @@
 # example-project
-i made this long ago as an example to teach someone to use github
+i made this long ago as an example to teach someone to use github. now it's a playground for experimenting like with what's below:
 
 -----------
 
