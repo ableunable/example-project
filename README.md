@@ -38,7 +38,7 @@ flowchart LR
     end
     MAC & LINUX -- "i need a new computer" --> a
     want("Want to make your own graphs?") -- "(click the next node)" --> Link([here's how!])
-    click Link "https://mermaid.js.org/#/" "Mermaid!"
+    click Link href "https://mermaid.js.org/#/" "Mermaid!"
   end
   linkStyle 2 color:skyblue,stroke:#0af,stroke-width:4px,font-weight:bold;
   linkStyle 3 stroke:#0a1,stroke-width:4px,color:lime;
