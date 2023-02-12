@@ -3,7 +3,7 @@ i made this long ago as an example to teach someone to use github. now it's a pl
 
 -----------
 
-it's a graph! not the best but it's a bit complicated to make 'em. check the `<>` above to see the source!   
+it's a graph! not the best but it's a bit complicated to make 'em. check the `<>` above ([here](https://github.com/ableunable/example-project/blob/main/README.md)) to see the source!   
 <details><summary>disclaimer</summary>i can't guarantee it'll render the same on your screen but the arrows should always point to what i coded them to point to</details>
 
 ```mermaid
